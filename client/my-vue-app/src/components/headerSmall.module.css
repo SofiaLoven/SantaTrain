@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    width: 100vw;
+    background-color: var(--heading-backgound-color);
+    position: relative;
+}
+
+.header img{
+    height: 80px;
+}
+
+.header div{
+    position: absolute;
+    bottom: 4px;
+}

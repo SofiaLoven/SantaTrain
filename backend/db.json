@@ -1,0 +1,46 @@
+{
+  "tickets": [
+    {
+      "id": 1700235785753,
+      "name": "Max Sundman",
+      "email": "Max@gmail.com",
+      "amountTickets": 3
+    },
+    {
+      "id": 1700236883765,
+      "name": "Max Gunnar",
+      "email": "maxan@gmail.com",
+      "amountTickets": 4
+    }
+  ],
+  "trains": [
+    {
+      "id": 1,
+      "title": "Lilla ångtåget",
+      "passengers": 104,
+      "picture": "lillaAngtaget.webp",
+      "info": "Lilla ångtåget är vårt äldsta tåg. Den yngsta vagnen är byggd 1903 och den äldsta redan 1885. Den äldsta vagnen, SRJ 9, gick i invigningståget på järnvägen mellan Stockholm och Rimbo som invigdes 1885. Tåget representerar en tid då vagnarna och loken var små, och hastigheten låg. Resenärerna var inte så många, fokuset var att godset skulle komma fram."
+    },
+    {
+      "id": 2,
+      "title": "Stora ångtåget - Thor",
+      "passengers": 276,
+      "picture": "ångtågetThor.webp",
+      "info": "Under början av 1900-talet växte tågen. Både vagnar och ånglok blev större, sätena blev bekvämare och med nya tekniker som tryckluftsbromsen kunde hastigheterna höjas. Stora ångtåget representerar den här perioden, och ser ut som ett typiskt ångloksdraget tåg kunde göra mellan 1920- och 1940-talet."
+    },
+    {
+      "id": 3,
+      "title": "Diseltåget",
+      "passengers": 119,
+      "picture": "diselLoket.webp",
+      "info": "Mot slutet av 1940-talet och början av 1950-talet stod järnvägar inför stora förändringar. Diesellok ersatte ångloken, eftersom dieselloken var billigare i drift och krävde mindre arbete för att hålla igång. Nya vagnar byggdes i stål istället för trä, och äldre vagnar moderniserades. Det var även vid denna tid som vestibuler med dörrar i vagnsändarna blev standard istället för öppna plattformar med grindar som på äldre vagnar. Dieseltåget representerar den här tidsperioden."
+    },
+    {
+      "id": 4,
+      "title": "Rälsbussen",
+      "passengers": 82,
+      "picture": "ralsbussen.webp",
+      "info": "Vårt yngsta tåg är rälsbussen. YBo5p-rälsbussarna byggdes mellan 1952 och 1958 i ett försök av SJ att förenhetliga vagnsparkerna på de många tidigare privatägda järnvägar de hade tagit över under de senaste åren. Konstruktören var den inom järnvägssammanhang legendariske fordonstillverkaren Hilding Carlsson, som ibland kallas för “rälsbussens fader”."
+    }
+  ]
+}

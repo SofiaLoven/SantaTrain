@@ -1,0 +1,22 @@
+
+.header {
+    height: 700px;
+    width: 100vw;
+    background: linear-gradient( rgba(20,20,20, .5), rgba(20,20,20, .5)), url('../assets/images/adam-chang-YnMQFtSoE2g-unsplash.webp' );
+    background-size: cover;
+    background-color: var(--heading-backgound-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.header img{
+    margin-top: 16px;
+    height: 80px;
+}
+
+.header div{
+    position: absolute;
+    bottom: 4px;
+}

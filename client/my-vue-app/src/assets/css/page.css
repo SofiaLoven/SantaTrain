@@ -1,0 +1,16 @@
+
+:root {
+    --background-color: #f0f8f6;
+    --heading-backgound-color: #349073;
+    --body-text-color: #1a4833;
+    --secondary-text-color: #2a7359;
+    --primary-red-color: #732a43;
+    --secondary-red-color:#c33b56;
+    --primary-green-color: #2a7335;
+  }
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+}
