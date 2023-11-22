@@ -1,0 +1,35 @@
+.tickets{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tickets h2, strong{
+    color: var(--primary-red-color);
+}
+
+.textContent section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0 24px;
+
+}
+
+.textContent aside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (min-width: 500px) {
+    .textContent{
+        display: flex;
+        margin: 12px 24px;
+    }
+
+    .textContent section{
+        max-width: 300px;
+    }
+  }

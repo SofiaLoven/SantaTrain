@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 :root {
     --background-color: #f0f8f6;
     --heading-backgound-color: #349073;
-    --body-text-color: #1a4833;
+    --heading-background-light-color: #6fac99;
+    --body-text-color: #112e21;
     --secondary-text-color: #2a7359;
     --primary-red-color: #732a43;
     --secondary-red-color:#c33b56;
@@ -13,4 +15,6 @@ body{
     margin: 0;
     padding: 0;
     background-color: var(--background-color);
+    font-family: 'Playfair Display', serif;
+    color: var(--body-text-color);
 }

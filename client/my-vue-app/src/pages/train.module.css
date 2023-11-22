@@ -1,0 +1,17 @@
+.train{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.train img{
+    height: 260px;
+    margin-top: 48px;
+    border-radius: 8px;
+}
+
+.trainDiv{
+    text-align: center;
+    margin: 0 16px 32px 16px;
+
+}

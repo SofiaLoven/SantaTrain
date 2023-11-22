@@ -20,3 +20,11 @@
     position: absolute;
     bottom: 4px;
 }
+
+@media (min-width: 500px) {
+    .header{
+        background: none;
+        background-color: var(--heading-backgound-color);
+        height:120px;
+    }
+  }

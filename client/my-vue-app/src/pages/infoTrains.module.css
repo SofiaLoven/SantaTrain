@@ -1,0 +1,32 @@
+.trains{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.trains ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.train{
+    display: flex;
+    flex-direction: column;
+    margin: 16px 0;
+}
+
+.train img{
+    height: 200px;
+    border-radius: 4px;
+}
+
+.train .link{
+    text-decoration: none;
+    margin: 12px 0;
+    color: var(--body-text-color);
+}
+
+.train .link:hover{
+    text-decoration: underline;
+}
